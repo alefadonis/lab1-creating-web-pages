@@ -1,0 +1,15 @@
+Primeiro, eu tentaria entender junto com a minha dupla,
+qual a natureza do meu problema, se ele exigiria mais de inovações
+visuais ou se seria necessário mais implementações de lógica do sistema.
+Depois, eu tentaria entender como seria a arquitetura base do programa,
+tentando visualizar quais os principais componentes e conexões que o software
+precisaria ter para ser eficiente, escalável e performático.
+Após definir isso, documentaria tudo em requisitos formais e informais, de modo
+que as nossas decisões ficassem registradas, servindo de apoio para o desenvolvimento 
+fuuturo.
+Após isso, definiria as ferramentas a serem utilizadas para o back-end e para o front-end
+(qual seria o framework e a linguagem a ser adotada para isso), levando em conta a nossa 
+familiaridade com as linguagens e o grau de compatibilidade que essas ferramentas tem para 
+resolver nosso problema.
+Por fim, definiria um fluxo padrão de CI/CD para gerenciar o nosso código, realizando testes
+automáticos e verificação de padrões de GIT.

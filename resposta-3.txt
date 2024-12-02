@@ -1,0 +1,5 @@
+É o processo de gerenciar mudanças nos arquivos ao longo do
+tempo, garantindo o histórico e rastreabilidade do que foi feito.
+Ele é essencial para garantir uma colaboração eficiente em times 
+de desenvolvedores, além de auxiliar nas valiações, verificações 
+e testes do que se está sendo produzido.

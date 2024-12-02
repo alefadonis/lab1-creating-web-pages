@@ -1,0 +1,9 @@
+A primeira tecnologia que podemos citar, é o javascript, sendo uma linguagem
+de programação que permitiu que os desenvolvedores criassem páginas dinâmicas 
+e interativas para o usuário, além de permitir que alguns processamentos mais 
+simples ou mais leves fossem feitos do lado do cliente.
+A segunda tecnologia é o CSS, que permitiu a estilização eficiente de páginas
+web, de modo que as páginas criadas se tornaram mais bonitas, responsivas e 
+atrativas para o usuário.
+A terceira solução tecnológica foram a padronização das API's, que permitiram 
+que as páginas web se comunicassem aos servidores de modo eficiente e organizado.

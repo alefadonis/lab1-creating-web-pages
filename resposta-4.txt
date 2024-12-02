@@ -1,0 +1,5 @@
+Porque ele permite rodar e interagir diretamente com o 
+navegador, sem a necessidade de um servidor. Isso facilitou
+a vida dos desenvolvedores, de forma que não era mais necessário
+depender do backend para fazer manipulações simples com os elementos
+da página.
